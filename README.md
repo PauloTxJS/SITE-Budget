@@ -1,22 +1,12 @@
-# Project SITE-Budget
+# Site Budget
 
-## Made with React, Next and Bootstrap
-Seguências executadas e bibliotecas instaladas
+## Technologies used
+* ReactJS
+* Bootstrap
+* Reactstrap
+* Next.js
 
-Baixar as dependências do projeto 
-### npm install
-
-Rodar o projeto
-### npm run dev
-
-Criar o arquivo package.json
-### npm init
-
-Instalar o React e o Next
-### npm install next react react-dom
-
-Instalando o bootstrap
-### npm install --save bootstrap
-
-Instalando o reactstrap
-### npm install --save reactstrap
+## To run the project
+1. Open a terminal in the project folder.
+2. Download the dependencies with the command: **npm install**
+3. Run the project with the command: **npm run dev**
