@@ -38,7 +38,7 @@ function HomePage() {
 
 	const sendOrcamento = async e => {
 		e.preventDefault();
-		setResponse({formSave: true}); // enviando...
+		setResponse({formSave: true}); // sending...
 		try {
 			const res = await fetch('http://localhost:8080/orcamento', {
 				method: 'POST',
