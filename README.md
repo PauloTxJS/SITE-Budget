@@ -1,4 +1,4 @@
-# Site Budget
+# Budget
 
 ## Technologies used
 * ReactJS
